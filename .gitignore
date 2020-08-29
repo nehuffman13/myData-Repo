@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+# .ds_store - can type whatever , its a comment
+.Ds_Store
 
 # C extensions
 *.so
